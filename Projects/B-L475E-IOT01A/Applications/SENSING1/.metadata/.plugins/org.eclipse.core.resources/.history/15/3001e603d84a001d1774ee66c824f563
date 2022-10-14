@@ -1,0 +1,13 @@
+#include "har_ign_data.h"
+
+ai_handle ai_har_ign_data_weights_get(void)
+{
+
+  AI_ALIGNED(4)
+  static const ai_u8 s_har_ign_weights[ 10 ] = {
+    0xb6, 0xab, 0x71, 0x3e, 0x94, 0xc7, 0x4d, 0xbf, 0x32, 0x7a
+  };
+
+  return AI_HANDLE_PTR(s_har_ign_weights);
+}
+

@@ -1,0 +1,13 @@
+#include "har_ign_wsdm_data.h"
+
+ai_handle ai_har_ign_wsdm_data_weights_get(void)
+{
+
+  AI_ALIGNED(4)
+  static const ai_u8 s_har_ign_wsdm_weights[ 10 ] = {
+    0x30, 0xd1, 0xad, 0xbb, 0x7d, 0x6d, 0x20, 0x3d, 0x63, 0xd5
+  };
+
+  return AI_HANDLE_PTR(s_har_ign_wsdm_weights);
+}
+

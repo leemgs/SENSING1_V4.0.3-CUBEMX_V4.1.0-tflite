@@ -1,0 +1,13 @@
+#include "har_gmp_data.h"
+
+ai_handle ai_har_gmp_data_weights_get(void)
+{
+
+  AI_ALIGNED(4)
+  static const ai_u8 s_har_gmp_weights[ 10 ] = {
+    0x65, 0xeb, 0xa0, 0x40, 0xf0, 0x8b, 0x94, 0xbf, 0x74, 0xb5
+   };
+
+  return AI_HANDLE_PTR(s_har_gmp_weights);
+}
+

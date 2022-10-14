@@ -1,0 +1,15 @@
+14:53:44 **** Incremental Build of configuration B-L475E-IOT01A for project B-L475E-IOT01A ****
+make all 
+arm-none-eabi-size   B-L475E-IOT01A.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 415328	   9616	  77856	 502800	  7ac10	B-L475E-IOT01A.elf
+Finished building: default.size.stdout
+ 
+arm-none-eabi-objcopy -O binary "B-L475E-IOT01A.elf" "../../SENSING1.bin"
+arm-none-eabi-size "B-L475E-IOT01A.elf"
+   text	   data	    bss	    dec	    hex	filename
+ 415328	   9616	  77856	 502800	  7ac10	B-L475E-IOT01A.elf
+ 
+
+14:54:12 Build Finished. 0 errors, 0 warnings. (took 28s.751ms)
+

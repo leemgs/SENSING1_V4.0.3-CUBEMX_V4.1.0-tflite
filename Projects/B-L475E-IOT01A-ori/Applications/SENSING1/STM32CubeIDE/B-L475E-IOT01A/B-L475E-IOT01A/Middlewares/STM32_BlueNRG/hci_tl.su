@@ -1,0 +1,5 @@
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/hci/hci_tl_patterns/Basic/hci_tl.c:154:6:hci_init	24	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/hci/hci_tl_patterns/Basic/hci_tl.c:181:6:hci_register_io_bus	4	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/hci/hci_tl_patterns/Basic/hci_tl.c:191:5:hci_send_req	176	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/hci/hci_tl_patterns/Basic/hci_tl.c:329:6:hci_user_evt_proc	24	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/hci/hci_tl_patterns/Basic/hci_tl.c:345:9:hci_notify_asynch_evt	24	static

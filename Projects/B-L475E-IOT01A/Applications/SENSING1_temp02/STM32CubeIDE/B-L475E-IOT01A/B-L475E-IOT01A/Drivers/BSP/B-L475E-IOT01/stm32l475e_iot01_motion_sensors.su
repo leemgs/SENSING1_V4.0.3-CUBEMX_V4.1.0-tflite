@@ -1,0 +1,13 @@
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:79:9:BSP_MOTION_SENSOR_Init	56	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:127:9:BSP_MOTION_SENSOR_DeInit	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:160:9:BSP_MOTION_SENSOR_GetCapabilities	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:189:9:BSP_MOTION_SENSOR_ReadID	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:221:9:BSP_MOTION_SENSOR_Enable	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:263:9:BSP_MOTION_SENSOR_Disable	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:306:9:BSP_MOTION_SENSOR_GetAxes	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:349:9:BSP_MOTION_SENSOR_GetAxesRaw	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:392:9:BSP_MOTION_SENSOR_GetSensitivity	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:435:9:BSP_MOTION_SENSOR_GetOutputDataRate	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:478:9:BSP_MOTION_SENSOR_SetOutputDataRate	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:521:9:BSP_MOTION_SENSOR_GetFullScale	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_motion_sensors.c:564:9:BSP_MOTION_SENSOR_SetFullScale	8	static

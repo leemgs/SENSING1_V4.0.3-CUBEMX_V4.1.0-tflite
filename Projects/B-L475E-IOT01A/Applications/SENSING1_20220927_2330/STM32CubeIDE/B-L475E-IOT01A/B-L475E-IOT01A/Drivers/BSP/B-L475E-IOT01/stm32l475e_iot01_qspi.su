@@ -1,0 +1,17 @@
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:206:9:BSP_QSPI_DeInit	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:255:26:MX_QSPI_Init	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:351:9:BSP_QSPI_Read	16	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:384:9:BSP_QSPI_Write	40	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:461:9:BSP_QSPI_Erase_Block	16	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:500:9:BSP_QSPI_Erase_Chip	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:539:9:BSP_QSPI_GetStatus	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:587:9:BSP_QSPI_GetInfo	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:610:9:BSP_QSPI_EnableMemoryMappedMode	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:641:9:BSP_QSPI_DisableMemoryMappedMode	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:677:9:BSP_QSPI_ReadID	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:707:9:BSP_QSPI_ConfigFlash	24	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:128:9:BSP_QSPI_Init	112	static,ignoring_inline_asm
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:768:9:BSP_QSPI_SuspendErase	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:810:9:BSP_QSPI_ResumeErase	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:851:9:BSP_QSPI_EnterDeepPowerDown	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_qspi.c:880:9:BSP_QSPI_LeaveDeepPowerDown	8	static

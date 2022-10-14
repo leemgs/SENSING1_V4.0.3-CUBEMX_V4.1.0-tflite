@@ -1,0 +1,12 @@
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:27:6:list_init_head	0	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:33:9:list_is_empty	0	static,ignoring_inline_asm
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:55:6:list_insert_head	0	static,ignoring_inline_asm
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:69:6:list_insert_tail	0	static,ignoring_inline_asm
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:83:6:list_remove_node	0	static,ignoring_inline_asm
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:95:6:list_remove_head	16	static,ignoring_inline_asm
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:109:6:list_remove_tail	16	static,ignoring_inline_asm
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:123:6:list_insert_node_after	0	static,ignoring_inline_asm
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:137:6:list_insert_node_before	0	static,ignoring_inline_asm
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:151:5:list_get_size	0	static,ignoring_inline_asm
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:172:6:list_get_next_node	0	static,ignoring_inline_asm
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/BlueNRG-MS/utils/ble_list.c:183:6:list_get_prev_node	0	static,ignoring_inline_asm

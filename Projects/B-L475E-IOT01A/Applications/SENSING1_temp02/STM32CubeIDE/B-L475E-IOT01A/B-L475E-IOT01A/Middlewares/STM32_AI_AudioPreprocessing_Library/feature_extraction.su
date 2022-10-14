@@ -1,0 +1,6 @@
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/STM32_AI_AudioPreprocessing_Library/Src/feature_extraction.c:38:6:buf_to_float	0	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/STM32_AI_AudioPreprocessing_Library/Src/feature_extraction.c:53:6:buf_to_float_normed	0	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/STM32_AI_AudioPreprocessing_Library/Src/feature_extraction.c:69:6:SpectrogramColumn	40	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/STM32_AI_AudioPreprocessing_Library/Src/feature_extraction.c:113:6:MelSpectrogramColumn	16	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/STM32_AI_AudioPreprocessing_Library/Src/feature_extraction.c:132:6:LogMelSpectrogramColumn	32	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Middlewares/ST/STM32_AI_AudioPreprocessing_Library/Src/feature_extraction.c:186:6:MfccColumn	16	static

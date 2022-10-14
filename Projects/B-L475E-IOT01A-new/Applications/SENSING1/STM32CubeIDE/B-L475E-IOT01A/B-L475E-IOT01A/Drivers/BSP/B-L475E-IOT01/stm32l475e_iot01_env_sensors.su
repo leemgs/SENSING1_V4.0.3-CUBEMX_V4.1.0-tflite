@@ -1,0 +1,9 @@
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_env_sensors.c:87:9:BSP_ENV_SENSOR_Init	56	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_env_sensors.c:135:9:BSP_ENV_SENSOR_DeInit	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_env_sensors.c:168:9:BSP_ENV_SENSOR_GetCapabilities	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_env_sensors.c:197:9:BSP_ENV_SENSOR_ReadID	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_env_sensors.c:229:9:BSP_ENV_SENSOR_Enable	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_env_sensors.c:271:9:BSP_ENV_SENSOR_Disable	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_env_sensors.c:314:9:BSP_ENV_SENSOR_GetOutputDataRate	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_env_sensors.c:357:9:BSP_ENV_SENSOR_SetOutputDataRate	8	static
+C:/Users/invain/Desktop/e4ds-stm-cube-ai/quest01/en.fp-ai-sensing1/STM32CubeFunctionPack_SENSING1_V4.0.3/Drivers/BSP/B-L475E-IOT01/stm32l475e_iot01_env_sensors.c:400:9:BSP_ENV_SENSOR_GetValue	8	static
